@@ -1,5 +1,4 @@
 # QuickHit
-a pratice project
 
 #测试环境: jdk1.8
 
